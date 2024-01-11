@@ -1,0 +1,1 @@
+print("Bush Le\nHe/him\nMy favourite movie is Suzume\nand I love eating steaks")
